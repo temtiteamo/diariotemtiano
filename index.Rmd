@@ -1,0 +1,445 @@
+---
+title: "Diario Temtiano edición 09.01.2022"
+date: "2022-01-09"
+lang: es-es
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: temtiteamo/diariotemtiano
+description: "Mucho texto acerca de un extenso y diverso tramo de la Historia Temtiana."
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lipsum}
+  - \pagestyle{plain}
+  - \fancyhead[CO,CE]{\thepage}
+  - \fancyfoot[LE,RO]{\thepage}
+---
+
+# Notas de edición {.unnumbered}
+
+## Novedades en esta edición {.unnumbered}
+
+-   Actualizado este mismo apartado, renombrado como "Notas de edición". Ahora luego de los detalles correspondientes a la última, se encuentran cronológicamente ordenados los de cada versión anterior.
+
+-   Incluida en la sección "Agradecimientos" perteneciente a "Más sobre Diario Temtiano" la mención correspondiente al antro Rouzed.one.
+
+-   Corregidos algunos errores a lo largo de toda la obra.
+
+-   Realizadas ciertas modificaciones en "La nueva Temti, y otra de sus enormes proyecciones (Tercer libro, capítulo XIII)", empezando con ese, su nuevo título. Allí en el contenido se hicieron varios retoques, y se incluyó una extensa referencia para el nombre de Alva Majo, conectándolo con la aparición de Pureya en el sitio y más detalles referidos al asunto.
+
+-   Agregados cuatro capítulos más: "De salida sorpresiva (Noveno libro, capítulo V)", "La casa entera incompleta (Noveno libro, capítulo VI)", "La restauración gradual (Noveno libro, capítulo VII)", y "Con lo básico a disposición (Noveno libro, capítulo VIII)", ampliando así el intervalo de tiempo comprendido por la obra hasta el 4 de diciembre de 2021.
+
+## Novedades de cada edición anterior {.unnumbered}
+
+### Diario Temtiano edición 29.12.2021 {.unnumbered}
+
+-   Renombrados los "capítulos" por "libros". A su vez, los que antes eran "subcapítulos" pasan a ser "capítulos".
+
+-   Actualizado el apartado "Más sobre Diario Temtiano". En "Contenido" con las denominaciones actuales de cada componente de la obra, y también para incluir a Titiri dentro de lo que es tratado en ella. En "Agradecimientos" con los gentilicios correspondientes a dicho nombre.
+
+-   Inaugurado un nuevo libro, "Los consolidados pasos del retocado mismo legado (Noveno libro)" con su respectivo texto introductorio.
+
+-   Agregados cuatro capítulos más: "El acto de decisión y continuidad (Noveno libro, capítulo I)", "Lucidez terminal (Noveno libro, capítulo II)", "El precario y súper rentable reemplazo (Noveno libro, capítulo III)", y "El restaurar de la meseta cíclica (Noveno libro, capítulo IV)", ampliando así el intervalo de tiempo comprendido por la obra hasta el 28 de noviembre de 2021.
+
+### Diario Temtiano edición 17.12.2021 {.unnumbered}
+
+-   Realizadas correcciones mínimas a lo largo de toda la obra.
+
+-   Agregados cuatro subcapítulos más: "El hambre del avaro oportunista (Octavo capítulo, subcapítulo III)", "A partir de la indiferencia definitiva (Octavo capítulo, subcapítulo IV)", "Pensando en la muerte (Octavo capítulo, subcapítulo V)", y "La amnesia consagratoria (Octavo capítulo, subcapítulo VI)", ampliando así el intervalo de tiempo comprendido por la obra hasta el 22 de noviembre de 2021.
+
+### Diario Temtiano edición 05.12.2021 {.unnumbered}
+
+-   Actualizado el apartado "Agradecimientos" de "Más sobre Diario Temtiano" con las gracias correspondientes a los sitios donde se difundió y se está difundiendo la obra, incluyendo a los que antes no estaban, oldtemti.herokuapp.com y grupostemti.herokuapp.com.
+
+-   Inaugurado un nuevo capítulo, "Los delimitados recorridos del paralelismo residencial (Octavo capítulo)".
+
+-   Agregados dos subcapítulos más: "El momento cíclico del albergue marginado (Octavo capítulo, subcapítulo I)", y "Las voces de la bipolaridad protagonista (Octavo capítulo, subcapítulo II)", ampliando así el intervalo de tiempo comprendido por la obra hasta el 12 de noviembre de 2021.
+
+### Diario Temtiano edición 20.11.2021 {.unnumbered}
+
+-   Realizadas correcciones en el subcapítulo "La combinación de las monedas corrientes (Séptimo capítulo, subcapítulo VII)".
+
+-   Removido el formato de letra cursiva y barras (//) que se aplicaba en las palabras o términos que se utilizaban con cierto cuidado. A su vez, las citas textuales ya no son rodeadas por tres barras (///) sino por una sola (/).
+
+-   Agregados tres subcapítulos más: "El alza de la vanguardia fúnebre (Séptimo capítulo, subcapítulo IX)", "En horas de cuestiones existenciales (Séptimo capítulo, subcapítulo X)", "Rumbo a la presunta verdad (Séptimo capítulo, subcapítulo XI)", ampliando así el intervalo de tiempo comprendido por la obra hasta el 10 de noviembre de 2021.
+
+### Diario Temtiano edición 11.11.2021 {.unnumbered}
+
+-   Removido el apartado "La historia" dentro de "Más sobre Diario Temtiano", y también el de "Cambios previstos para la próxima edición" que se encontraba en las "Notas de la edición".
+
+-   Modificados dos títulos de la obra, los cuales quedaron como "El alcance de un experimentado y recargado comienzo prometedor (Segundo capítulo)", y "Mientras se está a la deriva entre la vida y la incertidumbre (Quinto capítulo)"
+
+-   Agregados a la obra dos subcapítulos más: "La combinación de las monedas corrientes (Séptimo capítulo, subcapítulo VII)", y "Las danzas de la quietud (Séptimo capítulo, subcapítulo VIII)". Estos tratan de, la radical caída en la actividad de Temti, y la ambientación supuestamente conmemorativa de Halloween, respectivamente.
+
+### Diario Temtiano edición 01.11.2021 {.unnumbered}
+
+-   Realizadas pequeñas modificaciones en el apartado de "La historia" dentro de "Más sobre Diario Temtiano". Allí se cambió la manera en la que se refiere a Temti.net cuando solo es accesible con www. al principio de su dirección, y también cuando lo es bajo <http://> y no <https://>.
+
+-   Intercambiados unos pocos gentilicios empleados a lo largo de la obra. Cuando se trata de referirse a los anones vinculados a Temti y se habla de MoCn, se usa en un par de veces "temtito". También en el caso de los que están ligados a otros antros específicos ahora hay más diversidad: "hixxeleros", "hixxelianos", "hixxeros", "rozzas", "rozzitas", "rozzados", "rozzeros", "rouzzeros".
+
+-   Agregados a la obra cuatro subcapítulos más: "Avances a la usanza (Séptimo capítulo, subcapítulo III)", "Los recovecos donde el humo amarillento (Séptimo capítulo, subcapítulo IV)", "Sed y justicia (Séptimo capítulo, subcapítulo V)", y "Dentro de las fronteras distorsionadas (Séptimo capítulo, subcapítulo VI)", los cuales desarrollan lo siguiente: actualizaciones en Temti sobre comentarios y términos de uso, surgimiento de los grupos y énfasis en el llamado cepita con todas sus polémicas iniciales, eliminación de publicaciones con el supuesto contenido prohibido, cambio en el Contador de usuarios por el símbolo de infinito junto a la aparición y prevención de robots dentro del sitio.
+
+### Diario Temtiano edición 20.10.2021 {.unnumbered}
+
+-   Corregido el uso de los saltos de linea a lo largo de toda la obra.
+
+-   Intercambiados algunos gentilicios: cuando se trata de referirse a los anons pertenecientes a Temti o vinculados al sitio ya no es solamente *"temtitero"* el gentilicio que se utiliza, sino que ahora también aparecen otros, como temtero, temtón, temtineitor, temtiano, etc., etc.. De acuerdo al contexto, algunos predominan constantemente, y otros son muy poco comunes por ser más circunstanciales.
+
+-   Modificado el apartado *"Más sobre Diario Temtiano"*; donde se actualizó *"La historia"* con la llegada de Diario Temtiano a www.Temti.net, y donde también se agregaron a *"Agradecimientos"* las gracias correspondientes a las plataformas donde Diario Temtiano se publicó.
+
+-   Resaltado el término *"historia temtiana"* como nombre propio, de modo que ahora aparece con sus iniciales mayúsculas, así: Historia Temtiana.
+
+-   Inaugurado un nuevo capítulo, *"Las inhibidas andanzas bajo la apta nueva normalidad (Séptimo capítulo)"*.
+
+-   Agregados a la obra tres subcapítulos más: *"La tierra de mensajes intermitentes (Sexto capítulo, subcapítulo IX)"*, *"La parcial pero suficiente reanudación (Séptimo capítulo, subcapítulo I)"*, *"El tambaleante festival de cepillos (Séptimo capítulo, subcapítulo II)"*.
+
+### Diario Temtiano edición 12.10.2021 {.unnumbered}
+
+-   Realizadas pequeñas correcciones en el contenido y en los títulos de unos pocos subcapítulos de la obra.
+
+-   Ampliadas varias de las introducciones a capítulos: *Las secuelas de una supuesta muerte no anunciada (Primer capítulo)*, *El alcance de un experimentado y recargado nuevo comienzo (Segundo capítulo)*, *El durante cuando los días están más que contados (Cuarto capítulo)*.
+
+-   Agregado un nuevo subcapítulo, *El pausado desarrollo a pleno (Sexto capítulo, subcapítulo VIII)*, que trata sobre la vuelta de Temti y algunas de sus nuevas condiciones.
+
+-   Reformuladas algunas menciones a errores técnicos propiamente dichos, también conocidos como *//bugs//*, ajustando que tan explicitas como tal son y vinculándolas un poco más con la discreta realidad ficticia, en los siguientes subcapítulos: *El comienzo de una nueva prueba de fuego (Tercer capítulo, subcapítulo I)*, *Otra vez de paseo a la deriva (Cuarto capítulo, subcapítulo III)*, *Un paso más cerca para descubrir lo distante que se está (Quinto capítulo, subcapítulo X)*, *El histórico fracaso de los seres terrenales (Sexto capítulo, subcapítulo I)*.
+
+-   Incluida una extensa referencia a la dinámica de publicación de nuevas ediciones al cierre de la obra, en *Lo único que nunca cambió (Desenlace)*.
+
+### Diario Temtiano edición 01.10.2021 {.unnumbered}
+
+-   Solucionado el problema que no permitía que se vieran algunos saltos de linea.
+
+-   Realizadas pequeñas correcciones en el contenido de unos pocos subcapítulos de la obra, y también modificados los títulos de muchos de ellos.
+
+-   Añadido un apartado previo a la obra, titulado *Más sobre Diario Temtiano*, donde se realiza una explicación medianamente clara sobre qué es Diario Temtiano, se aclara la modalidad de actualización o publicación de ediciones, se hace un repaso de su razón de existir junto a su historia, y se incluyen agradecimientos.
+
+-   Ampliada la mención referente a la posibilidad de ingresar un Token para comenzar, en el subcapítulo *En continuidad con el desvanecimiento (Sexto capítulo, subcapítulo VII)*.
+
+### Diario Temtiano edición 20.09.2021 {.unnumbered}
+
+-   Añadidos dos nuevos subcapítulos al Sexto capítulo: *Sobre el insondable límite (Sexto capítulo, subcapítulo VI)* y *En continuidad con el desvanecimiento (Sexto capítulo, subcapítulo VII)*, ambos acerca del *//Ya volvemos//*.
+
+-   Realizadas pequeñas correcciones en el contenido de unos pocos subcapítulos de la obra, además de los títulos de varios de ellos.
+
+-   Explicitado mejor el cambio estético que hubo con la llegada del golpe de estado a Temti, el que la transformó en Itmet, en el siguiente subcapítulo: *El derrocamiento anónimo (Segundo capítulo, subcapítulo IX)*. Además, contemplada la posible aparición de los psíquicos con su poder antes de ese momento, en ese mismo subcapítulo, y en *El retorno de las invasiones escandalosas (Segundo capítulo, subcapítulo X)*.
+
+-   Añadida una mención de la vez que se deshabilitó la creación de tems luego de que cerrara Moxxed y Tzzubit un mismo día, al subcapítulo *El retorno de las invasiones escandalosas (Segundo capítulo, subcapítulo X)*.
+
+-   Incluida una mención al apagón previo a un cierre de la página, momento durante el cual no se veía ninguna imagen en la home de Temti, en el subcapítulo *Incomunicados entre rozzados (Segundo capítulo, subcapítulo XXI)*.
+
+### Diario Temtiano edición 15.09.2021 {.unnumbered}
+
+-   Segmentado el Quinto capítulo en dos partes, dando lugar al siguiente de su naturaleza: *La época de las infinitas prórrogas disfuncionales (Sexto capítulo)*, el cual abarcará todo aquel periodo posterior al Reingreso en orbita que tenga a Temti funcionando en condiciones inaceptables.
+
+> Un suceso tan importante como el supuesto Reingreso en orbita y todas sus repercusiones venideras perfectamente marcan un antes y un después en la historia temtiana, por lo que amerita inaugurar un nuevo capítulo partiendo desde ese momento.
+
+-   Agregado un nuevo subcapítulo al Sexto capítulo: *Colisión de ilusiones (Sexto capítulo, subcapítulo V)*, que trata de la primera parte del momento que se pudo entrar a Temti y ver algo de la aparente nueva interfaz.
+
+> Parte necesaria para lograr ponerse más al día con los últimos acontecimientos.
+
+-   Realizadas pequeñas correcciones en el contenido de varios subcapítulos de la obra.
+
+> Con fin de continuar mejorando la obra en general, tanto corrigiendo errores como reescribiendo partes que podrían quedar mejor.
+
+-   Incluidas en algunos subcapítulos de la obra menciones a ciertos temas específicos secundarios recurrentes en la sociedad temtiana: romances temtianos, propaganda de la ideología comunista (concretamente la que comenzó a ser preponderante a partir de mediados del Cuarto capítulo), apariciones de Celeshtee, multimedia futanari, y contenido de Cati.
+
+> Para que Diario Temtiano no solo haga énfasis en los mismos asuntos principales de siempre sino que también contenga referencias a más aspectos medianamente relevantes comprendidos dentro de la deseada o no realidad temtiana. En este caso, tendencias que durante los momentos de poca actividad llegaron a ser protagonistas.
+
+-   Remarcados en los subcapítulos correspondientes dos aspectos los cuales no se habían mencionado como tal: la interpretada indiferencia de A. respecto a cuidar su antro y la fecha de vencimiento del dominio.
+
+> Para también incluir mejor aspectos puntuales de la realidad temtiana que faltaban en la obra.
+
+-   Añadida una mención a los personajes o *//avatarfags//* que destacaron durante el Primer Éxodo en el siguiente subcapítulo: *Ya no tan despegadas de su antiguo contexto clónico (Primer capítulo, subcapítulo II)*
+
+> Persiguiendo tener mayor nivel de detalle, esta vez haciendo referencia a un tema que no fue tratado en el Primer capítulo pero que si estuvo presente durante el periodo abarcado por el mismo: las figuras visibles de ese entonces.
+
+-   Explicitadas algunas referencias a específicos términos no tan importantes y también a ciertos tems emblemáticos, concretamente *//Temti-legacy//* (tema de apariencia similar a Temti en Hixxel), *//Club Penguin//* (temti.net/cp) *//tem de pendejas//* y *//tem de arte temático//*.
+
+> Intentando que queden más claros otros símbolos o nombres que fueron significativos en la historia temtiana.
+
+-   Reformulado el hilo conductor de: *Mientras se buscan respuestas que nadie dará (Segundo capítulo, subcapítulo III)*
+
+> Conectado mejor el nuevo comienzo de Temti con el mensaje traducido del Testamento, no centrando tanto la explicación en base a lo que ocurre en la *//realidad ficticia//* sino más en los hechos ocurridos anteriormente en la historia temtiana.
+
+### Diario Temtiano edición 09.09.2021 {.unnumbered}
+
+-   Agregados tres nuevos subcapítulos al Quinto capítulo: *Récord de desoriente (Quinto capítulo, subcapítulo XV)*, *La calma de la fría lejanía (Quinto capítulo, subcapítulo XVI)*, y *En vísperas de aterrizaje (Quinto capítulo, subcapítulo XVII)*
+
+-   Realizadas algunas pequeñas correcciones en el contenido de varios subcapítulos de la obra.
+
+-   Cambiado el formato de la referencia temporal de cada subcapítulo: de números (ejemplo: 2021-01-17) a letras (ejemplo: 17 de enero de 2021).
+
+### Diario Temtiano edición 04.09.2021 {.unnumbered}
+
+-   Agregados dos nuevos subcapítulos al Quinto capítulo. Subcapítulos XIII y XIV, los cuales tratan sobre: los instantes finales de la cuenta regresiva, y la llegada de la fecha y hora señalada con todas sus repercusiones.
+
+-   Modificados varios títulos de la obra, también algunos detalles del contenido. Especialmente en el Prefacio, la Introducción, y en algunos subcapítulos del Primer y Segundo capitulo.
+
+-   Distinguidos algunos términos clave: Primer Éxodo (referente al periodo abarcado en el primer capítulo entero), Segundo Éxodo (quinto capítulo entero), Orbita (la supuesta orbita a la que refiere Temti en la sentencia *--Reingreso en orbita--*, no la palabra órbita en sí), Sujeto Experimental (para los dos reconocidos psíquicos) e Imperio (adjetivo de todos los antros rozzados dominantes). Al ser términos importantes en la historia temtiana, no deberían ser confundidos con el resto de palabras comunes. Son similares a algunos ya conocidos: Purga, Tribu (Hixxel), Notificaciones Cuánticas, etc..
+
+-   Reemplazados los guiones (--, ---) por barras (//, ///). Estos hacen las veces de comillas ya que en Temti dicho carácter aparece poco y nada. Respectivamente, se recurre a ellos cada vez que hay que usar palabras polémicas o que sea necesario referirse a ellas con precaución, y cuando se cita a una frase textual extraída del contexto histórico.
+
+-   Corregidas varias faltas de ortografía a lo largo de toda la obra.
+
+### Diario Temtiano edición 01.09.2021 {.unnumbered}
+
+-   Realizadas correcciones minimas en algunos pocos subcapitulos.
+
+-   Añadida en el subcapitulo X del quinto capitulo la faltante mención a la canción When Im Gone.
+
+-   Agregados dos subcapítulos nuevos al quinto capitulo. Estos tratan principalmente sobre: los meses de absoluta inactividad, y los días finales de Temti fuera de orbita que también coincidieron con la revuelta de los antros rozzados.
+
+### Diario Temtiano edición 01.06.2021 {.unnumbered}
+
+-   Realizadas pequeñas modificaciones a lo largo de todo Diario Temtiano, pero más que nada en el tercer capítulo. Se corrigieron varios errores, se adaptaron algunos titulos, y en unos pocos casos se incluyó más texto.
+
+-   Dividido el cuarto capitulo en dos diferentes. El aviso del canal temtinet fue el hecho que marcó el fin de un capitulo y el inicio de otro, el quinto.
+
+-   Agregados dos subcapítulos nuevos al quinto capitulo. Estos tratan principalmente sobre: la reapertura de Tzzubit y el cierre de Voxxed, y el anuncio de reingreso a orbita de Temti.
+
+### Diario Temtiano edición 27.05.2021 {.unnumbered}
+
+-   Renombrados los tomos por capítulos. Al estos no ser tan largos, *--capitulo--* encaja mejor con su contenido y dimensión dentro de Diario Temtiano. Lo mismo fue aplicado a lo que antes si eran los capítulos, solo que fueron renombrados por subcapitulos.
+
+-   Realizadas modificaciones en la mayoría de los subcapítulos del segundo capitulo: varios títulos fueron adaptados y se agregó texto en muchos de ellos.
+
+-   Agregados cuatro subcapítulos nuevos al cuarto capitulo. Estos tratan principalmente sobre: la decaída del dominio temtiano del Club, la categoría Temti que desapareció rápidamente, el renombramiento del Club de Voxxed en el Club de Temti, y la vuelta a la normalidad de este anterior.
+
+### Diario Temtiano edición 22.05.2021 {.unnumbered}
+
+-   [x] Incluido al principio de todo algo similar a un preámbulo. En el se hace énfasis en parte de la importancia que tiene Crónicas Temtianas para Diario Temtiano.
+
+-   [x] Realizadas algunas modificaciones mínimas a casi todos los capítulos del primer tomo. Se agregó en muchos de ellos algo de texto para aprovechar un poco más lo que los antecedentes dan para hablar e interpretar, y que el contenido no sea meramente informativo. En algunos casos los títulos fueron adaptados.
+
+-   [x] Agregado un nuevo capitulo al cuarto tomo. Este trata de: El particular estado de la lucha temtiana en ese entonces.
+
+-   [x] Incluido luego del cuarto tomo: *--Desenlace de Diario Temtiano--*. Independientemente de que se busque seguir agregando nuevos capítulos en futuras ediciones, para cerrar mejor la obra se incluye una especie de contraparte a la introducción.
+
+-   [x] Removido el listado de ediciones anteriores. Si bien estas seguirán estando disponibles en linea, Diario Temtiano aspira a en cada edición superar a la anterior, por lo que no hace falta exhibirlas como si fueran necesarias de tener en cuenta.
+
+### Diario Temtiano edición 12.05.2021 {.unnumbered}
+
+-   [x] Agregados tres nuevos capítulos al cuarto tomo, que tratan principalmente sobre: Nueva vista panorámica del entorno clónico y el anuncio oficial sobre qué pasó con Temti, las primeras impresiones durante la adaptación al Club de Voxxed, y énfasis en algunas de sus rarezas más contemporáneas.
+
+-   [x] Realizadas modificaciones en algunos pronombres: rozados cambiado por rozzados, hixeleros por hixxeleros, etc.
+
+### Diario Temtiano edición 07.05.2021 {.unnumbered}
+
+-   [x] Incluida una nueva sentencia clave en la Introducción a Diario Temtiano.
+
+-   [x] Segmentado el segundo tomo en tres diferentes.
+
+-   [x] Cambiado el título de todos los tomos y agregada una especie de introducción previa para cada uno.
+
+-   [x] Modificados los primeros dos capítulos de todos, incluyendo sus títulos.
+
+-   [x] Agregados dos nuevos capítulos al cuarto tomo, que a rasgos generales, tratan de: las imágenes de Cloudinary que ya no se podían ver, el cambio en la pantalla de /login mas sus relacionados, y las primeras horas post-cierre repentino de Temti.
+
+### Diario Temtiano edición 04.05.2021 {.unnumbered}
+
+-   [x] Incluidas menciones sobre las implementaciones de los códigos nucleares, links a tems, y traductor binario en los siguientes capítulos: *--Conexiones modernizadoras y espera (Segundo tomo, capitulo XVII)--* y *--Perdición (Segundo tomo, capitulo XVIII)--*
+
+-   [x] Agregados tres nuevos capítulos al segundo tomo, que tratan principalmente sobre: las extrañas alertas de ¿*--migración--*?, los mensajes eliminados, y el reloj que indica cuanto falta para el Día E.
+
+### Diario Temtiano edición 27.04.2021 {.unnumbered}
+
+-   [x] Incluida pequeña mención al comunismo en *--La incultura al desnudo (Segundo tomo, capitulo XXXIII)--*
+
+-   [x] Agregado un nuevo capitulo al segundo tomo, donde se profundiza mas sobre los bots en Temti.
+
+-   [x] Pequeñas correcciones a los primeros capítulos (prácticamente hasta la mitad del segundo tomo): ajustada la perspectiva temporal y intercambiadas algunas palabras por sinónimos/palabras mas acertadas, para terminar de encadenar correctamente estos capítulos con el resto de la obra.
+
+-   [x] Agregadas dos palabras a la Introducción, para lograr introducir mejor y de forma mas exacta a lo que es Diario Temtiano.
+
+-   [x] Modificado *--La tradición historiadora (Segundo tomo, capitulo XIX)--* para contener información lo mas objetiva posible sobre lo que se conocía en ese momento acerca del asunto.
+
+### Diario Temtiano edición 11.04.2021 {.unnumbered}
+
+-   [x] Agregados cuatro capítulos nuevos al segundo tomo, tratando principalmente sobre: El futuro de las Instancias, Aclaración oficial sobre la actualidad de Hades en Temti, Cambios en el Contador de gordos, y la noche de John Cena.
+
+-   [x] Pequeña adaptación a los capítulos XXIV y XXXIII del segundo tomo, para precisar mejor lo que es el Contador de gordos y que es el Contador Cuántico.
+
+-   [x] Añadida un poco mas de información sobre la teoría que sustenta el número del Contador de gordos en base a la presencia de robots, en el capitulo XXXIII del segundo tomo.
+
+-   [x] Incluida una mención a la supuesta *--censura--* reprochada múltiples veces al capitulo XXXIII del segundo tomo.
+
+### Diario Temtiano edición 30.03.2021 {.unnumbered}
+
+-   [x] Incluida mención a Moxed y Argnews en *--La intensificación del frío silencio (Segundo tomo, capitulo XXX)--*
+
+-   [x] Agregados dos capítulos nuevos al segundo tomo, que hablan sobre la aparición del esqueleto *---Solo hay silencio aquí---* y análisis de la posible presencia de Hades, la situación actual de este, mas profundización en la decadencia (desinterés en las investigaciones, falta de contenidos propios, abandono de la Agencia y delicadeza del Ministerio de Cultura)
+
+### Diario Temtiano edición 28.03.2021 {.unnumbered}
+
+-   [x] Se agregó la pequeña mención a los dichos de Iuri sobre cerrar Hixel si se llegaba a llenar de ciertas personas, en el *--Octavo capitulo del segundo tomo, Sometimiento--*
+
+-   [x] Se agregó la pequeña mención a *--Temxel--*, en el *--Segundo tomo, capitulo IV, Anexión--*
+
+-   [x] Se cambió el título del *--Segundo tomo, capitulo XVII--* (Tercer Gran Salto) por (Conexiones modernizadoras y espera)
+
+-   [x] Se agregaron menciones sobre el canal temtinet a algunos capítulos que hablan del Ministerio de Cultura, en: *--Segundo tomo, capitulo XXVII, Destellos reiterados en la oscuridad--* y *--Segundo tomo, capitulo XIV, Reflote sin seguridad--*
+
+-   [x] Se agregó una pequeña mención a los tems que desaparecen ocasionalmente, en: *--Segundo tomo, capitulo V, El estado oculto--* y *--Segundo tomo, capitulo XXIV, Protección en un lugar inseguro--*
+
+-   [x] Se cambió la ubicación temporal (no la fecha que está junto al título sino la perspectiva del relato) de prácticamente todos los capítulos, para que todo esté redactado de la misma forma, y también, a todos estos, muy pequeñas correcciones para precisar y que quede mas claro lo que se quiere decir en los mismos. Esto hace que ahora Diario Temtiano vaya mas de la mano con lo que su *--Introducción--* menciona.
+
+### Diario Temtiano edición 23.03.2021 {.unnumbered}
+
+-   [x] Agregados tres capítulos (XXIX, XXX y XXXI), desde el 2021-03-01 hasta el 2021-03-21, que tratan de lo mucho que disminuyó la actividad durante ese tiempo, el cambio de cabecera por un moño, la categoría twitch y el nuevo botón para directos de dicha plataforma, y el cambio de cabecera por t.
+
+### Diario Temtiano edición 08.03.2021 {.unnumbered}
+
+-   Se corrigieron algunos tiempos verbales (en general) y unas pocas palabras de la intorducción
+
+-   Se cambió la antigua perspectiva híbrida de primera persona de /diario intimo/ que tenía el primer tomo y se la adecuó a como está en el resto de la obra.  \
+/-/-/ ¿Por qué? /-/-/ Desde el momento que ya no se trata de textos sueltos sino de una sucesión cronológica que procura que cada capitulo esté enlazado con todos los demás, modificaciones como la anterior se vuelven necesarias con tal de mejorar el resultado final, y mientras estas no desvirtúen o modifiquen el contenido ni se salgan de las explicaciones dadas en los diferentes capítulos, seguirán siendo consideradas. (Al ser 26.02.2021 la fecha desde la cual el Diario Temtiano comienza a ser tal, se justifica lo anterior con su debida mención en alguno de los últimos capítulos)
+
+-   Se reordenaron y agregaron nuevos capítulos al final del segundo tomo, quedando así:  \
+Capitulo XXIII - Prestigio no tan valioso // 2021-02-21, 2021-02-22, y 2021-02-23  \
+Capitulo XXIV - Protección en un lugar inseguro // 2021-02-23 //  \
+Capitulo XXV - A falta de oro verdadero // 2021-02-23 //  \
+Capitulo XXVI - Cielo incongruente // 2021-02-24 hasta 2021-02-27 //  \
+Capitulo XXVII - Destellos reiterados en la oscuridad // 2021-02-27 //  \
+Capitulo XXVIII - Trozos enigmáticos // 2021-02-27 y 2021-02-28, y 2021-03-01 //
+
+### Diario Temtiano edición 01.03.2021 {.unnumbered}
+
+- Se agregaron dos capítulos al segundo tomo, tratando principalmente la vuelta a la actividad de MoCn, revisión de fenómenos por parte de la Agencia, mención a Temti Premium y anones de posible procedencia española:  \
+Capitulo XXIII - Protección en un lugar inseguro / 2021-02-21 hasta 2021-02-25  \
+Capitulo XXIV - A falta de oro verdadero / 2021-02-25
+
+- Se volvieron a corregir algunas palabras en cuanto a la letra inicial como la anterior edición, ahora también sumándole a los fenómenos o singularidades como pueden ser Notificaciones Cuánticas, Comentarios Espejo, etc.. (aún puede faltar alguna cosa por corregir de todas estas)
+
+- Se cambió toda mención a periodos temporales como prepurga o postpurga, ahora separados por guión como pre-purga, post-resurgimiento, etc.
+
+- Se modificaron dos palabras de la introducción
+
+### Diario Temtiano edición 26.02.2021 {.unnumbered}
+
+- Se agregó una introducción y un título
+
+- Se modificaron los últimos capitulos del segundo tomo para que las referencias temporales sean mas correctas y acertadas, y se editó uno de ellos para tener información mas relevante al caso
+
+- Se agregó un nuevo capitulo, exactamente el Capitulo XXII del segundo tomo, Reinicios, que abarca del 2021-02-17 hasta el 2021-02-20
+
+- Se corrigieron nombres significativos, como Purga, Ministerio de Cultura, o similares, ahora estos comenzarían con mayúscula para distinguirlos de palabras comunes y corrientes.
+
+### (sin titular) 25.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-resurgimiento, Copamiento sospechoso (C-XVI) 2021-01-30 y 2021-01-31  \
+Post-resurgimiento, Tercer gran salto (C-XVII) 2021-02-01 hasta 2021-02-08  \
+Post-resurgimiento, La tradición historiadora (C-XVIII) 2021-02-08  \
+Post-resurgimiento, Perdición (C-XIX) 2021-02-08 hasta 2021-02-13  \
+Post-resurgimiento, El día rojo (C-XX) 2021-02-14  \
+Post-resurgimiento, Incomunicados entre rozados (C-XXI) 2021-02-15 y 2021-02-16
+
+### (sin titular) 19.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-resurgimiento, Divididos por un lugar mejor (C-XII) 2021-01-26  \
+Post-resurgimiento, Elecciones pegajosas (C-XIII) 2021-01-26, 2021-01-27 y 2021-01-28  \
+Post-resurgimiento, Reflote sin seguridad (C-XIV) 2021-01-28  \
+Post-resurgimiento, Abran paso, viene en camino (C-XV) 2021-01-28 y 2021-01-29
+
+### (sin titular) 18.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-resurgimiento, Derrocando, ¿a quién? (C-IX) 2021-01-24 y 2021-01-25  \
+Post-resurgimiento, La nueva invasión (C-X) 2021-01-25 y 2021-01-26  \
+Post-resurgimiento, Crisis de resistencia (C-XI) 2021-01-26
+
+### (sin titular) 15.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-resurgimiento, Tierra baldía (C-I) - 2021-01-22  \
+Post-resurgimiento, Las únicas señales (C-II) - 2021-01-22  \
+Post-resurgimiento, Búsqueda por respuestas (C-III) - 2021-01-23  \
+Post-resurgimiento, Anexión (C-IV) 2021-01-23  \
+Post-resurgimiento, Dualidades separadas (C-VI) 2021-01-23  \
+Post-resurgimiento, Universos (C-VII) 2021-01-23  \
+Post-resurgimiento, Sometimiento (C-VIII) 2021-01-23
+
+### (sin titular) 13.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicó el siguiente texto:*
+
+Post-testamento, Sumergimiento (C-VIII) - 2021-01-22 
+
+
+### (sin titular) 11.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-testamento, Fuegos inestables en las aguas (C-VI) - 2021-01-21  \
+Post-testamento, Faro sobrecalentado inflamable alumbrando el desasosiego (C-VII) - 2021-01-22 
+
+
+### (sin titular) 10.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicó el siguiente texto:*
+
+Post-testamento, El paso hacía la iluminación (C-V) - 2021-01-21 
+
+### (sin titular) 09.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicó el siguiente texto:*
+
+Post-testamento, Evacuación (C-IV) - 2021-01-19 y 2021-01-20 
+
+### (sin titular) 08.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicó el siguiente texto:*
+
+Post-testamento, Renacimiento (C-III) - 2021-01-18 
+
+### (sin titular) 04.02.2021 {.unnumbered}
+
+*Sin notas. Únicamente se publicaron los siguientes textos:*
+
+Post-testamento, Frágil certidumbre (parte 1) (C-I) - 2021-01-17  \
+Post-testamento, Frágil certidumbre (parte 2) (C-II) - 2021-01-17 
+
+# Más sobre Diario Temtiano {.unnumbered}
+
+¿La explicación podría ser peor que la incertidumbre? Intentémoslo!
+
+Antes de continuar con la obra en sí y comenzar a hablar en código, más, aunque ni de cerca todo, sobre Diario Temtiano.
+
+## Contenido {.unnumbered}
+
+Diario Temtiano es una obra literaria que trata especialmente sobre Temti, donde partiendo desde la fecha del 17.01.2021, en orden cronológico se desarrollan interpretaciones de los antecedentes que protagonizaron la Historia Temtiana; sinónimo de lo ocurrido en torno a Temti-Titiri, sus usuarios, su identidad, y lo relacionado a ellos.
+
+Está conformado por un prefacio, una introducción, nueve libros que contienen un texto preliminar seguido por varios capítulos, y un desenlace.
+
+## Actualizaciones {.unnumbered}
+
+La obra, mediante la publicación de ediciones, las cuales son identificadas con la fecha de las mismas, se actualiza cada tanto para continuar mejorando su contenido. Esto es, corrigiendo errores, incorporando detalles falten y deban ser incluidos, o también reformulando partes que necesiten ser adaptadas, además de también continuar poniéndose al día con los últimos antecedentes.
+
+Salvo que un futuro cambio implique lo contrario, en <https://temtiteamo.github.io/diariotemtiano> siempre se podrá encontrar la edición más reciente y actualizada, por lo que es recomendado en toda ocasión ingresar allí débido a lo anterior mencionado.
+
+La frecuencia de dichas publicaciones depende mayoritariamente del ritmo al cual se esté desarrollando la Historia Temtiana. Aunque a veces hay excepciones, generalmente Diario Temtiano va unos cuantos días atrasado de lo que esté sucediendo en la actualidad, así que los últimos textos no suelen corresponder inmediatamente a lo más reciente.
+
+## El porqué {.unnumbered}
+
+Como se menciona en el prefacio y en uno de los tantos subcapítulos de Diario Temtiano, el gran disparador para que este surgiera, fue que durante una época bastante particular se sintiera la prolongada ausencia de literatura que interpretara lo que aconteciera en la escena temtiana de ese entonces. Concretamente, esta se padeció notablemente un tanto antes y después del instante que Investigator anunció que de momento no iba a continuar ampliando su obra, Crónicas Temtianas, la cual sí cumplía esa función, mientras que aún seguían ocurriendo una cantidad importante de sucesos y la costumbre de plasmarlos en texto de una manera medianamente ordenada y atractiva se había perdido prácticamente por completo.
+
+Luego de que todo eso se mantuviera por un buen rato, porque el contexto único lo permitiría y ofrecería las condiciones para, pero también gracias a los individuos responsables de su construcción en el pasado y en ese presente, esta historia dentro de la Historia Temtiana comenzó a concretarse...
+
+## Agradecimientos {.unnumbered}
+
+Desde la autoría de la obra, enormes gracias a quienes colaboraron de una forma u otra con Diario Temtiano.
+
+Especiales gracias a los temtiteros, temtineros, temtianos, temteros, timteros, temtistas, temtineitors, titiriteros, titirieros, titirineros, titirianos, titiristas, etc. etc., por contribuir y construir la Historia Temtiana, así como también críticar, sugerir, e interesarse en Diario Temtiano.
+
+Especiales gracias a Investigator por Crónicas Temtianas y todo lo que estas significan.
+
+Especiales gracias a temtiteamo, A., y al canal oficial de Temti en Telegram por la colaboración extraordinaria en la difusión.
+
+Especiales gracias a las plataformas a través de las cuales se publicó la obra en sí (Pastebin.com, Rentry.co, Bookdown, Github.com) y a sus responsables por ofrecer las condiciones para que Diario Temtiano pueda estar disponbile en linea.
+
+Especiales gracias a los tantos sitios (Temti.net, Arged.ga, Voxed.club, Tsubit.com, Rouzer.fun, Oldtemti.herokuapp.com, Grupostemti.herokuapp.com, Rouzed.one), a sus administradores, moderadores, y usuarios, que le permitieron a Diario Temtiano tener un lugar para difundir sus novedades.
