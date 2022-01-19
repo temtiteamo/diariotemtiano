@@ -1,7 +1,0 @@
-book_filename: "diariotemtiano09012022"
-lang: es
-language:
-  ui:
-    chapter_name: ""
-delete_merged_file: true
-output_dir: "docs"
