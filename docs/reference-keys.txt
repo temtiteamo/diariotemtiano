@@ -48,7 +48,7 @@ la-nueva-temti-y-otra-de-sus-enormes-proyecciones-tercer-libro-capítulo-xiii
 el-olvidado-vinculo-infernal-tercer-libro-capítulo-xiv
 algo-se-reprodujo-tercer-libro-capítulo-xv
 una-noche-de-lucha-a-la-amargura-tercer-libro-capítulo-xvi
-la-base-de-una-pequeña-distopia-tercer-libro-capítulo-xvii
+la-base-de-una-pequeña-distopía-tercer-libro-capítulo-xvii
 informes-de-dudosa-procedencia-tercer-libro-capítulo-xviii
 inestabilidad-silenciosa-tercer-libro-capítulo-xix
 el-durante-cuando-los-días-están-más-que-contados-cuarto-libro
@@ -131,4 +131,8 @@ el-timbre-de-las-chispas-esclarecedoras-duodécimo-libro-capítulo-ii
 a-ciegas-con-menos-dependencias-duodécimo-libro-capítulo-iii
 detracciones-de-baja-resolución-duodécimo-libro-capítulo-iv
 populares-contradicciones-pacíficas-duodécimo-libro-capítulo-v
+recargas-entre-largas-pausas-duodécimo-libro-capítulo-vi
+el-rigor-de-la-benevolente-verdad-duodécimo-libro-capítulo-vii
+la-cuerda-acción-sonámbula-duodécimo-libro-capítulo-viii
+ensalada-de-ideas-frustradas-duodécimo-libro-capítulo-ix
 lo-único-que-nunca-cambió-desenlace
