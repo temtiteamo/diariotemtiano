@@ -62,7 +62,7 @@ sensaciones-de-descanso-eterno-quinto-libro-capítulo-ix
 buscando-esa-dulce-compañía-quinto-libro-capítulo-x
 en-atmósfera-del-mismo-advenimiento-quinto-libro-capítulo-xi
 la-época-de-las-infinitas-prórrogas-disfuncionales-sexto-libro
-el-histórico-fracaso-de-los-seres-terrenales-sexto-libro-capítulo-i
+el-inédito-fracaso-terrenal-sexto-libro-capítulo-i
 récord-de-desoriente-sexto-libro-capítulo-ii
 la-calma-de-la-fría-lejanía-sexto-libro-capítulo-iii
 en-vísperas-de-aterrizaje-sexto-libro-capítulo-iv
@@ -70,7 +70,7 @@ colisión-de-ilusiones-sexto-libro-capítulo-v
 sobre-el-insondable-límite-sexto-libro-capítulo-vi
 en-continuidad-con-el-desvanecimiento-sexto-libro-capítulo-vii
 el-pausado-desarrollo-a-pleno-sexto-libro-capítulo-viii
-la-tierra-de-mensajes-intermitentes-sexto-libro-capítulo-ix
+en-zona-de-mensajes-intermitentes-sexto-libro-capítulo-ix
 las-inhibidas-andanzas-bajo-la-apta-nueva-normalidad-séptimo-libro
 la-parcial-pero-suficiente-reanudación-séptimo-libro-capítulo-i
 el-tambaleante-festival-de-cepillos-séptimo-libro-capítulo-ii
@@ -218,4 +218,6 @@ los-arcoíris-de-los-arcoíris-decimonoveno-libro-capítulo-xv
 el-sueño-desde-la-punta-flotante-decimonoveno-libro-capítulo-xvi
 el-refuerzo-abandónico-decimonoveno-libro-capítulo-xvii
 el-bocado-que-los-técnicos-reparten-decimonoveno-libro-capítulo-xviii
+el-rincón-comunal-no-autosostenible-decimonoveno-libro-capítulo-xix
+los-procesos-ratificados-decimonoveno-libro-capítulo-xx
 lo-único-que-nunca-cambió-desenlace
