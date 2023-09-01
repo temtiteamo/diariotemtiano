@@ -84,7 +84,7 @@ el-alza-de-la-vanguardia-fúnebre-séptimo-libro-capítulo-ix
 en-horas-de-cuestiones-existenciales-séptimo-libro-capítulo-x
 rumbo-a-la-presunta-verdad-séptimo-libro-capítulo-xi
 los-delimitados-recorridos-del-paralelismo-residencial-octavo-libro
-el-momento-cíclico-del-albergue-marginado-octavo-libro-capítulo-i
+ciclos-del-albergue-marginado-octavo-libro-capítulo-i
 las-voces-de-la-bipolaridad-protagonista-octavo-libro-capítulo-ii
 el-hambre-del-avaro-oportunista-octavo-libro-capítulo-iii
 a-partir-de-la-indiferencia-definitiva-octavo-libro-capítulo-iv
@@ -222,4 +222,7 @@ el-rincón-comunal-no-autosostenible-decimonoveno-libro-capítulo-xix
 los-procesos-ratificados-decimonoveno-libro-capítulo-xx
 clarificaciones-de-oscura-legitimidad-decimonoveno-libro-capítulo-xxi
 de-lo-excepcional-a-lo-corriente-decimonoveno-libro-capítulo-xxii
+el-énfasis-extrafuncional-decimonoveno-libro-capítulo-xxiii
+visiones-de-desubicada-revolución-decimonoveno-libro-capítulo-xxiv
+devoradores-de-la-improcedencia-decimonoveno-libro-capítulo-xxv
 lo-único-que-nunca-cambió-desenlace
