@@ -1,5 +1,5 @@
-el-primer-gran-puente-de-la-literatura-temtiana-prefacio
-la-nueva-cuna-de-la-explicación-introducción
+la-conexión-entre-desarrollos-temáticos-prefacio
+la-explicación-de-otra-versión-introducción
 las-secuelas-de-una-supuesta-muerte-no-anunciada-primer-libro
 donde-la-frágil-certidumbre-primer-libro-capítulo-i
 un-auténtico-renacer-primer-libro-capítulo-ii
@@ -249,4 +249,6 @@ compaginando-cometidos-decimonoveno-libro-capítulo-xlvi
 momentos-para-comprobar-decimonoveno-libro-capítulo-xlvii
 estaciones-adyacentes-decimonoveno-libro-capítulo-xlviii
 propiedades-persistentes-decimonoveno-libro-capítulo-xlix
-lo-único-que-nunca-cambió-desenlace
+la-excepción-de-la-continuación-extensión
+sin-titular-extensión-capítulo-sin-numeración
+la-razón-que-va-más-allá-desenlace
